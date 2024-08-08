@@ -1299,6 +1299,10 @@ offers
 #offers #tabs ul li a img {
   display: block;
   margin: 0 auto 15px auto;
+  padding: 5px;
+      margin: 10px;
+      flex: 1 1 calc(30% - 20px); /* Adjust the width and margin */
+      box-sizing: border-box;
 }
 #offers #tabs ul .ui-tabs-active a {
   color: #eeff00;
