@@ -1280,7 +1280,10 @@ offers
   margin: 0px 15px;
 }
 #offers #tabs ul li:last-child {
-  margin-right: 0px;
+  margin-right: 30px;
+}
+#offers #tabs ul li:middle-child {
+  margin-right: 10px;
 }
 #offers #tabs ul li:first-child {
   margin-left: 0px;
